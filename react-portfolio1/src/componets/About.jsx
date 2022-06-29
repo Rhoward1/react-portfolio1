@@ -21,7 +21,7 @@ const About = () => {
                     <div>
                     
                         <p>
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate consequatur molestiae fugit perferendis pariatur accusantium ipsum voluptatum corporis, eius beatae nisi quidem magni quos ratione ut voluptatem consequuntur rerum ducimus?
+                        I'm a Full Stack web developer with a focus on front-end development.  I am still exploring and expanding on other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you!
                         </p>
     
                     </div>
